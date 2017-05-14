@@ -1,6 +1,3 @@
-
-
-
 /* Body 
 ------------------------------------- */
 body {
@@ -95,8 +92,9 @@ a {
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #e44c65;
-  outline: none;
+	color: #4C84E4;
+	outline: none;
+	font-size: 24px;
 }
 
 * {
@@ -354,7 +352,8 @@ a:hover, a:active, a:focus {
 }
 
 #home h1 {
-  color: #ffffff;
+	color: #559FD3;
+	font-size: 4rem;
 }
 
 #home .col-md-8 {
@@ -668,7 +667,3 @@ footer {
   }
 
 }
-
-
-
-
